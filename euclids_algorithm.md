@@ -1,4 +1,4 @@
-#Euclid's Algorithm
+# Euclid's Algorithm
 
 [Euclid's Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm), also known as the Euclidean Algorithm, is an efficient method for computing the greatest common divisor (GCD) of two numbers (the largest number that divides both of them without leaving a remainder).
 
