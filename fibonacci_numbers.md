@@ -1,4 +1,4 @@
-#Fibonacci Numbers
+# Fibonacci Numbers
 
 [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number) are the numbers in the Fibonacci Sequence, which is characterized by the fact that every numer in the sequence (except the first) is the sum of the two preceding numbers.
 
