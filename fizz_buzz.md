@@ -1,4 +1,4 @@
-#Fizz Buzz
+# Fizz Buzz
 
 [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) is a word game used to teach children about division.
 
