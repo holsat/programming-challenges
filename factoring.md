@@ -1,5 +1,5 @@
 # Factoring
-
+ 
 Factoring, or factorizing, is the decomposition of an object (such as a number, polynomial, or matrix) into a product of other objects that when multiplied produce the original object. One use for factoring is to identify whether or not a number is prime. Large prime numbers form the basis for [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography), which is critical to securing data transmissions over public networks such as the internet. If a method of rapidly factoring large numbers were to be developed, public-key cryptography as it exists today would be severely compromised.
 
 Write a simplified factoring implementation that will factor an integer:
